@@ -1,5 +1,5 @@
 
-# Joint Project
+# PayTrack
 
 **Course:** Mobile Programming
 
