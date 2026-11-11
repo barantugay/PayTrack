@@ -8,4 +8,4 @@
 ## Team Members
 - Baran Tugay - 25052618
 - Gamze Güler
-- Emre Efe
+- Emre Efe - 25052615
